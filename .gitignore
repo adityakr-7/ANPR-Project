@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+
+# React / Node
+node_modules/
+dist/
+
+# Generated files
+/backend/uploads/*
+/backend/ai/results/*
+/backend/results/*
+/backend/outputs/*
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

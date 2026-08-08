@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+/* ---------- Global Theme ---------- */
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #050816;
+    color: white;
+    font-family: Inter, Arial, sans-serif;
+    overflow-x: hidden;
+}
+
+* {
+    box-sizing: border-box;
+}
