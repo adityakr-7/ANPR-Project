@@ -652,29 +652,21 @@ Screenshots can be added here to demonstrate the application's interface.
 
 ### Vehicle Information
 
-Add your vehicle details screenshot here.
 
-```text
-![Vehicle Details](screenshots/vehicle-details.png)
-```
+![Vehicle Details](https://github.com/adityakr-7/ANPR-Project/blob/9ec773bcb283f63dea6255dbfb23aa78f5c1d66e/vehicle_details.png)
+
 
 ### Detection History
 
-Add your history page screenshot here.
 
-```text
-![Detection History](screenshots/history.png)
-```
+![Detection History](https://github.com/adityakr-7/ANPR-Project/blob/9ec773bcb283f63dea6255dbfb23aa78f5c1d66e/history.png)
+
 
 ### Reports
 
-Add your reports page screenshot here.
 
-```text
-![Reports](screenshots/reports.png)
-```
+![Reports](https://github.com/adityakr-7/ANPR-Project/blob/9ec773bcb283f63dea6255dbfb23aa78f5c1d66e/report.png)
 
-> Create a `screenshots` folder in your repository and place the corresponding images inside it before enabling these image links.
 
 ---
 
