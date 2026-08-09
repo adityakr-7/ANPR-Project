@@ -636,19 +636,13 @@ Screenshots can be added here to demonstrate the application's interface.
 
 ### Dashboard
 
-Add your dashboard screenshot here.
-
-
 ![Dashboard](https://github.com/adityakr-7/ANPR-Project/blob/788c737bb27cde508478b8540c7c49a64338fade/dashboard.png)
 
 
 ### Number Plate Detection
 
-Add your upload/detection result screenshot here.
+![Detection Result](https://github.com/adityakr-7/ANPR-Project/blob/c767acfc5bcb67a08e67beb4149681ab5eb6909f/detection.png)
 
-```text
-![Detection Result](screenshots/detection.png)
-```
 
 ### Live Camera
 
