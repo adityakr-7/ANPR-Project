@@ -632,10 +632,7 @@ Screenshots can be added here to demonstrate the application's interface.
 
 ### Login
 
-
-```text
 ![Login Page](https://github.com/adityakr-7/ANPR-Project/blob/cec4d80b7a16ac9878e90f9496b1af82a3f9ad36/login.png)
-```
 
 ### Dashboard
 
