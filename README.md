@@ -652,11 +652,9 @@ Add your upload/detection result screenshot here.
 
 ### Live Camera
 
-Add your camera interface screenshot here.
 
-```text
-![Live Camera](screenshots/camera.png)
-```
+![Live Camera](https://github.com/adityakr-7/ANPR-Project/blob/975dc08c1199c7a74e6fc7f02091d67ea13e66cf/camera.png)
+
 
 ### Vehicle Information
 
